@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on random projects
+- 🌱 I’m currently learning react
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with angular / git
+- 💬 Ask me about anything
+- 📫 How to reach me: Email.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <!--
 **Muhammad-Taha12/Muhammad-Taha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
