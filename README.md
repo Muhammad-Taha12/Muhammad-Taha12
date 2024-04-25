@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=/Muhammad-Taha12&label=Profile%20views&color=0e75b6&style=flat" alt="/Muhammad-Taha12" /> </p>
+
 - 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on projects
