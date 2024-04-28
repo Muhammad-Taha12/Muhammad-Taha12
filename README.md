@@ -2,14 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Taha12&label=PROFILE+VIEWS" alt="Muhammad-Taha12" /> </p>
 
-- 🔭 I’m currently working on random projects
+- 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with angular / git
 - 💬 Ask me about anything
-- 📫 How to reach me: Email.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: muhammadtaha4802@gmail.com
 
 <!--
 **Muhammad-Taha12/Muhammad-Taha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
